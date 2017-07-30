@@ -25,13 +25,14 @@ description: ""
 keyword: ""
 header-img: img/header_img/background1.jpg
 signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img:
 
 
 # SNS settings
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
+
 github_username:    nupuragrahari
 # twitter_username:   Demonbane_x
 facebook_username:  nupur.agrahari
