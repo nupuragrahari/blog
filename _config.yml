@@ -19,10 +19,10 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Nupur Agrahari
+SEOTitle: Nupur
 email: nupur.agrahari93@gmail.com
-description: ""
-keyword: ""
+description: "Nupur Agrahari blog"
+keyword: "nupur agrahari blog"
 header-img: img/header_img/background1.jpg
 signature: true #show signature
 signature-img:
@@ -78,7 +78,7 @@ show_count: true
 
 
 ## Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
@@ -156,7 +156,6 @@ markdown:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: beantech
-
 #sitemap
 sitemap:
   path: sitemap.xml
@@ -166,4 +165,4 @@ sitemap:
 deploy:
   type: git
   repository: https://github.com/nupuragrahari/nupuragrahari.github.io.git
-  branch: gh-page
+  branch: master
