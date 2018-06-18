@@ -2,92 +2,92 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://nupuragrahari.github.io/tags/believeInYourself/</loc>
-        <lastmod>2017-07-30T12:57:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://nupuragrahari.github.io/tags/motivation/</loc>
-        <lastmod>2017-07-30T13:33:27.000Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://nupuragrahari.github.io/tags/positivity/</loc>
-        <lastmod>2017-07-30T13:33:27.000Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://nupuragrahari.github.io/tags/optimism/</loc>
-        <lastmod>2017-07-30T13:33:27.000Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://nupuragrahari.github.io/tags/hexo/</loc>
-        <lastmod>2017-08-28T18:39:32.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://nupuragrahari.github.io/tags/githubPagesAndHexo/</loc>
-        <lastmod>2017-08-28T18:39:32.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://nupuragrahari.github.io/tags/githubHexoGodaddy/</loc>
-        <lastmod>2017-08-28T18:39:32.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://nupuragrahari.github.io/tags/GodaddyDomainSetupForGithub/</loc>
-        <lastmod>2017-08-28T18:39:32.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://nupuragrahari.github.io/tags/hexoBlog/</loc>
-        <lastmod>2017-08-28T18:39:32.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://nupuragrahari.github.io/tags/dataNormalization/</loc>
-        <lastmod>2017-09-01T17:21:50.595Z</lastmod>
+        <loc>http://nupuragrahari.github.io/tags/believeInYourself/</loc>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://nupuragrahari.github.io/tags/javascript/</loc>
-        <lastmod>2018-02-02T18:57:40.477Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://nupuragrahari.github.io/tags/closures/</loc>
-        <lastmod>2018-02-02T18:57:40.477Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://nupuragrahari.github.io/tags/lexical-scoping/</loc>
-        <lastmod>2018-02-02T18:57:40.477Z</lastmod>
+        <lastmod>2018-06-17T07:19:41.341Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/dataNormalization/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/hexo/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/githubPagesAndHexo/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/githubHexoGodaddy/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/GodaddyDomainSetupForGithub/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://nupuragrahari.github.io/tags/hexoBlog/</loc>
+        <lastmod>2018-06-17T07:19:41.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
